@@ -40,8 +40,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		{
@@ -210,8 +209,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},		
 		{
@@ -229,8 +227,7 @@
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		{
@@ -317,15 +314,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		{
@@ -387,8 +382,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		// {
@@ -519,8 +513,7 @@
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#CC7832"
 			}
 		},
 		{
